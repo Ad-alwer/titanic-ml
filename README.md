@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/alwer.jpeg" width="110" alt="Alwer" />
   <h3>Titanic Survival Prediction</h3>
   <p>Machine Learning in Python — Mini Project 3</p>
 </div>
