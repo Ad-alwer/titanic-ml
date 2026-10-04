@@ -1,0 +1,7 @@
+,CV Accuracy (%),CV Std (%),Single Split (%)
+XGBoost,83.24,1.85,84.27
+Logistic Regression,82.68,1.66,81.46
+Random Forest,80.31,2.12,78.65
+Decision Tree,77.27,3.41,81.46
+KNN,70.75,1.57,77.53
+SVM,68.51,1.83,81.46
